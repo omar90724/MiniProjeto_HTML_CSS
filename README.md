@@ -10,8 +10,8 @@ Aplicação do uso do bootstrap, cards, carousel e imagens em um documento HTML.
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-
-> O aluno precisa identificar, codificar as propriedades disponíveis do bootstrap e aplicar em um documento HTML para reproduzir um site site especificado
+> Este mini projeto faz parte do programa de estudos do projeto Instituto Nu - [Nubank e Descomplica]
+> O aluno precisa identificar, codificar as propriedades disponíveis do bootstrap e aplicar em um documento HTML para reproduzir um site site especificado.
 
 ## 💻 Pré-requisitos
 
